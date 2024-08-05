@@ -1,7 +1,9 @@
-<h1>Hi, I'm Ruchitha! <br/><a href="https://github.com/joshmadakor1">Aspiring Data Analyst well versed in SQL, Python, Powerbi, and Excel</a> <a href="www.linkedin.com/in/
-ruchitha-thota-8283661a6/"></h1>
+<h3>Hi, I'm Ruchitha! <br/><a href="https://github.com/joshmadakor1"> I am pursuing a Master's in Computer Science at Concordia university wisconsin and with 2 years of job experience as Project Engineer at Wipro. I'm Proficient in MYSQL,Excel, and Powerbi. 
+    By the way, check out my awesome Projects.
 
-<h2>👨‍💻 SQL Projects:</h2>
+ <a href="www.linkedin.com/in/
+ruchitha-thota-8283661a6/"></a></h3>
+
 
 <h2> 🤳 Connect with me:</h2>
 
