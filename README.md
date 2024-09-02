@@ -1,8 +1,9 @@
-<h3>Hi, I'm Ruchitha! <br/><a href="https://github.com/joshmadakor1"> I am pursuing a Master's in Computer Science at Concordia university wisconsin and with 2 years of job experience as Project Engineer at Wipro. I'm Proficient in MYSQL,Excel, and Powerbi. 
-    By the way, check out my awesome Projects.
-
- <a href="www.linkedin.com/in/
-ruchitha-thota-8283661a6/"></a></h3>
+<h3> 👋 Hi, I’m Ruchitha Thota <br>
+🌱 I’m currently learning Data Analysis <br>
+💞️ I’m looking to collaborate on various data analysis projects <br>
+📫 How to reach me www.linkedin.com/in/ruchitha-thota-8283661a6 <br>
+😄 Pronouns: she/her <br/>
+<a href="https://github.com/joshmadakor1"> 
 
 
 <h2> 🤳 Connect with me:</h2>
