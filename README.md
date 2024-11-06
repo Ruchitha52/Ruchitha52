@@ -34,9 +34,8 @@
             <a href="mailto:youremail@example.com">Email</a>
             <a href="https://yourportfolio.com" target="_blank">Portfolio</a>
         </div>
-        
-  <p class="contact-message">
-          I’m always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out!
+        <p class="contact-message"><br>
+        I’m always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out!
         </p>
     </div>
 </body>
