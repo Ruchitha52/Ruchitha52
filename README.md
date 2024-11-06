@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Hi there, I'm Shaun Mia! 👋</h1>
+        <h1>Hi there, I'm Ruchitha Thota! 👋</h1>
         <p><a href="https://ruchitha52.github.io/Ruchitha29.github.io/">Portfolio</a> | <a href="https://www.linkedin.com/in/ruchithathota/">LinkedIn</a> | <a href="mailto:ruchithathota29@email.com">Email</a></p>
     </header>
     <section>
@@ -19,45 +19,26 @@
             <li>🎯 I’m looking for an entry-level Data Analyst role to leverage my skills in a professional setting.</li>
         </ul>
     </section>
-    <section>
-        <h2>Skills</h2>
-        <h3>Programming</h3>
-        <ul>
-            <li>Python</li>
-            <li>C</li>
-        </ul>
-        <h3>Web</h3>
-        <ul>
-            <li>HTML</li>
-            <li>CSS</li>
-        </ul>
-        <h3>Tools</h3>
-        <ul>
-            <li>Power BI</li>
-            <li>Excel</li>
-            <li>SQL</li>
-<li>Tableau</li>
-           </ul>
-     <h3>Soft Skills</h3>
-        <ul>
-            <li>⏳ Time Management</li>
-            <li>🔍 Problem Solving</li>
-            <li>🔄 Adaptability</li>
-            <li>🤝 Team Collaboration</li>
-        </ul>
-        <h3>Additional Skills</h3>
-        <ul>
-            <li>Data Statistics</li>
-            <li>Analytical Thinking</li>
-        </ul>
-    </section>
-     <section>
+          <section>
         <h2>Experience & Education</h2>
        <ul>
             <li>🎓 Pursuing Master's in Computer Science at Concordia University Wisconsin</li>
             <li>Worked as Project Engineer at wipro</li>
         </ul>
     </section>
+<div class="contact-section">
+        <h2>Let's Connect!</h2>
+        
+   <div class="contact-links">
+            <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+            <a href="mailto:youremail@example.com">Email</a>
+            <a href="https://yourportfolio.com" target="_blank">Portfolio</a>
+        </div>
+        
+  <p class="contact-message">
+          I’m always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out!
+        </p>
+    </div>
 </body>
 </html>
 
