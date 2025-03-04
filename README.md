@@ -32,7 +32,7 @@
    <div class="contact-links">
             <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
             <a href="mailto:youremail@example.com">Email</a>
-            <a href="https://yourportfolio.com" target="_blank">Portfolio</a>
+            <a href="https://sites.google.com/view/ruchithathota/home" target="_blank">Portfolio</a>
         </div>
         <p class="contact-message"><br>
         I’m always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out!
