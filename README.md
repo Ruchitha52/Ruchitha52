@@ -7,7 +7,7 @@
 <body>
     <header>
         <h1>Hi there, I'm Ruchitha Thota! 👋</h1>
-        <p><a href="https://ruchitha52.github.io/Ruchitha29.github.io/">Portfolio</a> | <a href="https://www.linkedin.com/in/ruchithathota/">LinkedIn</a> | <a href="mailto:ruchithathota29@email.com">Email</a></p>
+        <p><a href="https://sites.google.com/view/ruchithathota/home">Portfolio</a> | <a href="https://www.linkedin.com/in/ruchithathota/">LinkedIn</a> | <a href="mailto:ruchithathota29@email.com">Email</a></p>
     </header>
     <section>
         <h2>About Me</h2>
